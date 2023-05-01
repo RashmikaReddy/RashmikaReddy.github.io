@@ -2,15 +2,16 @@
 ---
 ## Natural Language Processing
 
-### CS224n: Natural Language Processing with Deep Learning
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+**Named Entity Recognition of ebay Listings:** Implemented Named Entity Recognition of eBay’s listings as part of its Machine Learning competition. Computed and contrasted models built using Bi-directional LSTM, BERT to tag Brand, product type, model etc. Evaluated performance of both the models and BERT achieved an F1 score of 86%.
+([GitHub](https://github.com/RashmikaReddy/Named-Entity-Recognition)).
 
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+**Quora Question similarity:** Converted the quora questions into a vector using TF-IDF, word2vec, on which classification algorithms, Logistic Regression, and Support vector machine are applied, achieving 50% less log-loss over baseline model Random Forest.
+ ([GitHub](https://github.com/RashmikaReddy/Quora-Question-Similarity)).
 
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
+ **Network Pruning and Quantization for LLMs:** : By conducting a comparative analysis of network pruning and LLM-int8 quantization techniques on a pre-trained RoBERTa Language Model for sentiment analysis, we achieved a significant reduction in inference time of at least 4x for both techniques. These findings demonstrate the potential of network pruning and quantization techniques for optimizing the deployment of Language Models in resource-constrained environments, without compromising the model's accuracy in sentiment analysis.
+
 
 <center><img src="images/nlp.png"/></center>
 
@@ -46,21 +47,20 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
-## Data Science
+## Deep Learning 
 
-### Credit Risk Prediction Web App
+### SimCLR paper implementation
 
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
+[![Run in Google Colab](https://colab.research.google.com/drive/1D9qr_rwWAoVyE15Bobq4SpFkAWhup5Zy?usp=sharing)
 
-<div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
+<div style="text-align: justify">Successfully replicated the outcomes of the SimCLR and MoCo-V2 self-supervised algorithms on Fast.AI datasets for image classification, as presented in the corresponding research papers.
+.</div>
 <br>
 <center><img src="images/credit-risk-webapp.png"/></center>
 <br>
 
 ---
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
+### MoCo-V2 paper Implementation
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
@@ -71,12 +71,16 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
+
+## Data Science 
+
 ### Predict Breast Cancer with RF, PCA and SVM using Python
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
 
-<div style="text-align: justify">In this project I am going to perform comprehensive EDA on the breast cancer dataset, then transform the data using Principal Components Analysis (PCA) and use Support Vector Machine (SVM) model to predict whether a patient has breast cancer.</div>
+<div style="text-align: justify">Conducted an experimental study using statistical tests and logistic regression techniques to analyze the correlation between social media usage and mental health problems.
+.</div>
 <br>
 <center><img src="images/breast-cancer.png"/></center>
 <br>
