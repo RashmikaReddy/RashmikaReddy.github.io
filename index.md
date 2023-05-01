@@ -72,6 +72,15 @@
 
 ---
 
+### Steering angle detection in Self driving cars
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RashmikaReddy/Steering_angle_detection)
+
+
+<div style="text-align: justify">Implemented a Convolutional Neural Network (CNN) for detecting steering angles, using input images and corresponding steering angles as output, with the aim of improving autonomous driving systems.</div>
+
+
+
 ## Data Science 
 
 ### Predict Breast Cancer with RF, PCA and SVM using Python
@@ -96,17 +105,3 @@
 <br>
 
 ---
-## Filmed by me
-
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-
-<div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
-<br>
-
-- [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
-- [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-- [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
-- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
-
----
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
