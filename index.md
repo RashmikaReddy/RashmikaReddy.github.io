@@ -51,23 +51,24 @@
 
 ### SimCLR paper implementation
 
-[![Run in Google Colab](https://colab.research.google.com/drive/1D9qr_rwWAoVyE15Bobq4SpFkAWhup5Zy?usp=sharing)
+[![Run in Google Colab](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://colab.research.google.com/drive/1D9qr_rwWAoVyE15Bobq4SpFkAWhup5Zy?usp=sharing)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RashmikaReddy/Contrastive_Learning_Implementation)
 
 <div style="text-align: justify">Successfully replicated the outcomes of the SimCLR and MoCo-V2 self-supervised algorithms on Fast.AI datasets for image classification, as presented in the corresponding research papers.
 .</div>
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/Architecture-SimCLR.png"/></center>
 <br>
 
 ---
 ### MoCo-V2 paper Implementation
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
+[![Run in Google Colab](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://colab.research.google.com/drive/1D9qr_rwWAoVyE15Bobq4SpFkAWhup5Zy?usp=sharing)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RashmikaReddy/Contrastive_Learning_Implementation)
 
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
+<div style="text-align: justify"> Successfully replicated the outcomes of the SimCLR and MoCo-V2 self-supervised algorithms on Fast.AI datasets for image classification, as presented in the corresponding research papers.</div>
 <br>
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/MoCoV2-Image.png"/></center>
 <br>
 
 ---
@@ -78,7 +79,9 @@
 
 
 <div style="text-align: justify">Implemented a Convolutional Neural Network (CNN) for detecting steering angles, using input images and corresponding steering angles as output, with the aim of improving autonomous driving systems.</div>
-
+<br>
+<center><img src="images/steering_angle_detection.png"/></center>
+<br>
 
 
 ## Data Science 
@@ -92,16 +95,6 @@
 .</div>
 <br>
 <center><img src="images/breast-cancer.png"/></center>
-<br>
-
----
-### Business Analytics Conference 2018: How is NYC's Government Using Money?
-
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
-
-<div style="text-align: justify">In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.</div>
-<br>
-<center><img src="images/bac2018.JPG"/></center>
 <br>
 
 ---
